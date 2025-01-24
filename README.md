@@ -10,3 +10,5 @@ hyprshot -- screenshot utility -- SUPER + PRINT -- window
                                -- SHIFT + PRINT -- region
 dolphin -- file manager -- SUPER + E
 wlogout -- logout menu -- SUPER + L
+screenshot -- 
+<img src="/hypr/screenshot.png">
